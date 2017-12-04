@@ -1,0 +1,1 @@
+void delay (long t)  ;
